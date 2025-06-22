@@ -1,4 +1,4 @@
-Spotify-Style Music Streaming App
+# Spotify-Style Music Streaming App
 
 A sleek, Spotify-inspired React music streaming application that allows users to:
 
@@ -68,7 +68,7 @@ src/
 1. *Clone the repository*
 
 bash
-git clone https://github.com/your-username/spotify-music-app.git
+git clone (https://github.com/Komalkaur01/SpotifyClone.git)
 cd spotify-music-app
 
 
@@ -96,11 +96,6 @@ npm run dev
 
 ---
 
-### 🌍 Live Demo
-
-[🚀 Live on Vercel / Netlify](https://your-deployment-url.com)
-
----
 
 ### 🙏 Acknowledgements
 
@@ -110,10 +105,3 @@ npm run dev
 
 ---
 
-### 📃 License
-
-MIT License © [Your Name](https://github.com/your-username)
-
----
-
-Let me know if you want a badge-based version or want to include contribution steps or Firebase/Netlify deployment steps!
