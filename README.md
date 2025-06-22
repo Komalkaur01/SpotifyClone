@@ -24,18 +24,6 @@ A sleek, Spotify-inspired React music streaming application that allows users to
 
 ---
 
-### 📸 Screenshots
-
-<details>
-<summary>Click to view</summary>
-
-![Home](https://your-screenshot-url.com/home.png)
-![Player](https://your-screenshot-url.com/player.png)
-![Sidebar](https://your-screenshot-url.com/sidebar.png)
-
-</details>
-
----
 
 ### 🛠 Tech Stack
 
