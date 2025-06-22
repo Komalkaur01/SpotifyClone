@@ -55,14 +55,14 @@ src/
 
 1. *Clone the repository*
 
-bash
+
 git clone (https://github.com/Komalkaur01/SpotifyClone.git)
 cd spotify-music-app
 
 
 2. *Install dependencies*
 
-bash
+
 npm install
 
 
@@ -78,7 +78,7 @@ VITE_GEO_API_KEY=your_key_here
 
 4. *Run the app*
 
-bash
+
 npm run dev
 
 
